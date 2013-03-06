@@ -23,7 +23,7 @@ There's also a small "framework" where each square is an object. To organize a b
 
 Installation: Download and import glpicking project. It's ready to run. If you run it, it should look like this:
 
-![ScreenShot](https://raw.github.com/i-schuetz/Android_OpenGL_Picking/blob/master/SC20130306-175411.png)
+![ScreenShot](https://raw.github.com/i-schuetz/Android_OpenGL_Picking/master/SC20130306-175411.png)
 
 
 It requires min. API 8, but I think it's easy to modify it to run it in lower APIs (I don't need it, so I haven't checked).
